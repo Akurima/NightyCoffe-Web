@@ -1,0 +1,49 @@
+MEDIDAS UTILIZADAS
+W: Ancho
+H: Alto
+M: Margen (T: Arriba, R: Derecha, B: Abajo, L: Izquierda)
+Página: 1280 x 1024 px 
+
+Header:
+W: 1280px
+H: 120px
+M: -
+
+Logo Letras:
+W: 200px
+H: 80px
+M: 20px 20px
+
+Logo Imagen:
+W: 120px
+H: 100px
+M-T;B: 10px
+
+Botones Navegación:
+W: 244px
+H: 100px
+M: 10px 10px
+
+Botones Redes:
+W: 50px
+H: 50px
+M-T;B;L;R: 35px 35px 35px 35px
+
+Linea: 
+W: 1280px
+H: 10px
+M-T: 10px
+
+Body:
+W: 1280px
+H: 720px
+M: - 
+
+Footer:
+W: 1280px
+H: 54px
+M: -
+
+TEXTO 1:
+W: 340px
+H: 176px

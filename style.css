@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+html {
+    width: 1280px;
+    height: 1024px;
+}
+
+header {
+    position: relative;
+    width: 1280px;
+    height: 120px;
+    background-color: #981d38;
+}
+
+div#Titulo {
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    margin: 20px;
+}
+
+
+#Logo {
+    margin: 10px;
+    position: absolute;
+    margin-left: 580px;
+    width: 120px;
+    height: 100px;    
+}
+
+li#Redes1 {
+    float: left;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin: 44px 1213px;
+    border-radius: 100%;
+}
+
+li#Redes2 {
+    float: left;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin: 44px 1160px;
+    border-radius: 100%;
+}
+
+li#Redes3 {
+    float: left;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin: 44px 1107px;
+    border-radius: 100%;
+}
+
+div#Bloque {
+    position: relative;
+    width: 1280px;
+    height: 120px;
+    background: whitesmoke;
+}
+
+li#Boton1 {
+    background-color: #b2364e;
+    width: 244px;
+    height: 100px;
+    position: absolute;
+    margin-left: 264px;
+    margin-top: 10px;
+}
+
+li#Boton2 {
+    background-color: #b2364e;
+    width: 244px;
+    height: 100px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+li#Boton3 {
+    background-color: #b2364e;
+    width: 244px;
+    height: 100px;
+    position: absolute;
+    margin-left: 517px;
+    margin-top: 10px;
+}
+
+li#Boton4 {
+    background-color: #b2364e;
+    width: 244px;
+    height: 100px;
+    position: absolute;
+    margin-left: 771px;
+    margin-top: 10px;
+}
+
+li#Boton5 {
+    background-color: #b2364e;
+    width: 244px;
+    height: 100px;
+    position: absolute;
+    margin-left: 1025px;
+    margin-top: 10px;
+}
+
+div#Separacion {
+    width: 1280px;
+    height: 10px;
+    background: #981d38;
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    background: #981d38;
+}
+
+article aside#Columna1 {
+    position: absolute;
+    margin: 34px 40px;
+    width: 340px;
+    height: 650px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background: #ff828f;
+}
+
+aside#Columna1 p {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 16px;
+    margin: 3px;
+    text-decoration: none;
+}
+
+aside#Columna1 p a {
+    text-decoration: none;
+}
+
+aside#Columna1 p a:hover {
+    color: #f893a9;
+}
+
+div#MarcoIMG1 {
+    position: absolute;
+    border-radius: 5px;
+    border: 2px black solid;
+    width: 320px;
+    height: 450px;
+    margin: 8px;
+}
+
+article aside#Columna1 img {
+    position: absolute;
+    width: 320px;
+    height: 450px;
+    border-radius: 2px;
+    
+}
+
+article aside#Columna2 {
+    float: right;
+    position: absolute;
+    margin: 34px 462px;
+    width: 770px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background: #ff828f;
+}
+
+aside#Columna2 p {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 16px;
+    margin: 3px;
+}
+
+aside#Columna3{
+    position: absolute;
+    margin: 408px 462px;
+    width: 379px;
+    height: 278px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+aside#Columna3 img {
+    width: 379px;
+    height: 278px;
+    border-radius: 8px;
+
+}
+
+aside#Columna4{
+    float: right;
+    margin: 408px 40px;
+    width: 379px;
+    height: 278px;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+aside#Columna4 img {
+    width: 379px;
+    height: 278px;
+    border-radius: 8px;
+}
+
+
+footer {
+    position: relative;
+    width: 1280px;
+    height: 54px;
+    background: whitesmoke;
+}
+
+footer p {
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+}
